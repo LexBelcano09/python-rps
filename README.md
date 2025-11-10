@@ -1,2 +1,2 @@
 # python-rps
-My first Python project repository. README for important information.
+My first python repository. I present to you, dear viewer, a mind-blowing, bone-chilling, spine tingling experience of the famous "rock, paper, scissors" childhood favourite, in a way you have never experienced before. This carefully structured mega-project has been hand crafted with care by certified experienced developers (me and Dr. Chad G. Peatee) for the best state-of-the-art user experience. The game is operated through user input in the console. I plan to propose this to steam and other reputable game and film industry corporations to expose my marvel of human ingenuity.
